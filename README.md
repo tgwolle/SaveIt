@@ -1,6 +1,6 @@
-# Wishlist - A place where your wishes wait
+#SaveIt
 
-Wishlist is a Chrome extension that allows you to save items from websites and view them all in one place. With Wishlist, you can easily scroll through your saved items and categorize them for better organization.
+SaveIt is a Chrome extension that allows you to save items from websites and view them all in one place. With Wishlist, you can easily scroll through your saved items and categorize them for better organization.
 
 ## Features
 
@@ -11,7 +11,7 @@ Wishlist is a Chrome extension that allows you to save items from websites and v
 
 ## Technologies Used
 
-Wishlist is built using the following technologies:
+SaveIt is built using the following technologies:
 
 - HTML
 - CSS
@@ -20,8 +20,8 @@ Wishlist is built using the following technologies:
 
 ## Installation
 
-1. Download the Wishlist Chrome extension from the Chrome Web Store.
-2. Once the extension is installed, click on the Wishlist icon in the Chrome browser.
+1. Download the SaveIt Chrome extension from the Chrome Web Store.
+2. Once the extension is installed, click on the SaveIt icon in the Chrome browser.
 3. Start saving items from websites and enjoy the convenience of having all your saved items in one place.
 
 
