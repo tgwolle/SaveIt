@@ -24,7 +24,5 @@ Wishlist is built using the following technologies:
 2. Once the extension is installed, click on the Wishlist icon in the Chrome browser.
 3. Start saving items from websites and enjoy the convenience of having all your saved items in one place.
 
-## Support
 
-If you encounter any issues or have any questions, please feel free to contact us at support@wishlist.com. We are always here to help.
 
