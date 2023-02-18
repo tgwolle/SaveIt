@@ -1,6 +1,6 @@
 #SaveIt
 
-SaveIt is a Chrome extension that allows you to save items from websites and view them all in one place. With Wishlist, you can easily scroll through your saved items and categorize them for better organization.
+SaveIt is a Chrome extension that allows you to save items from websites and view them all in one place. With SaveIt, you can easily scroll through your saved items and categorize them for better organization.
 
 ## Features
 
